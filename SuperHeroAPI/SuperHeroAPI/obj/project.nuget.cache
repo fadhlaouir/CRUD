@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfXPKSB2yR6GaVO5qH5A9JGXH5i5eLA0L+iXJ/lWid4PcAhwO3aeeX7v8A9stRV9lbWv09HZd22Qbx8zENT3Lg==",
+  "success": true,
+  "projectFilePath": "/Users/raed/Desktop/CRUD/SuperHeroAPI/SuperHeroAPI/SuperHeroAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/raed/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/raed/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/raed/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/raed/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/raed/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/raed/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
