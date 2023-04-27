@@ -19,7 +19,9 @@ You will also need a SQL Server instance or connection string to a remote SQL Se
 ## Getting Started
 
 1 - Clone this repository or download the zip file and extract it.
+
 2 - Open the command prompt or terminal and navigate to the Superheroes.WebApi folder.
+
 3 - Run the following command to restore the dependencies:
 
 ```bash
@@ -33,6 +35,7 @@ dotnet run
 ```
 
 5 - Open another command prompt or terminal and navigate to the Superheroes.WebApp folder.
+
 6 - Run the following command to install the dependencies:
 
 ```bash
@@ -50,9 +53,11 @@ ng serve
 ## Database Setup
 By default, the application is configured to use a local SQL Server instance. You can modify the connection string in the `appsettings.json` file to use a remote SQL Server database.
 
-1- Open the `Superheroes.WebApi` project in Visual Studio or Visual Studio Code.
-2- Open the `appsettings.json` file.
-3- Modify the `DefaultConnection` connection string to use your SQL Server instance or remote database.
+1 - Open the `Superheroes.WebApi` project in Visual Studio or Visual Studio Code.
+
+2 - Open the `appsettings.json` file.
+
+3 - Modify the `DefaultConnection` connection string to use your SQL Server instance or remote database.
 
 ```bash
 {
@@ -63,8 +68,10 @@ By default, the application is configured to use a local SQL Server instance. Yo
 }
 ```
 
-4- Save the changes.
-5- Run the following command to apply the migrations:
+4 - Save the changes.
+
+5 - Run the following command to apply the migrations:
+
 ```bash
 dotnet ef database update
 ```
