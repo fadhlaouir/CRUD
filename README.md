@@ -8,6 +8,7 @@ To run this application, you will need to have the following installed on your m
 
 - .NET 6 SDK
 - Node.js
+- Sql server express
 - Angular CLI
 
 - Visual Studio
