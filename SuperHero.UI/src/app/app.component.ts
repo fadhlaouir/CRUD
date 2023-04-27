@@ -26,7 +26,8 @@ export class AppComponent {
    * @returns void
    */
   ngOnInit(): void {
-    this.heroes = this.superHeroService.getSuperHeroes();
-    console.log('heroes', this.heroes);
+    this.superHeroService
+      .getSuperHeroes()
+      .subscribe((result: SuperHero[]) => (this.heroes = result));
   }
 }
